@@ -31,6 +31,7 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 search_enabled: false
 
 # Exclude from processing.

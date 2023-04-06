@@ -20,14 +20,15 @@
 
 title: Federico's projects
 email: U02249@uplands.org
-description: >- # this means to ignore newlines until "baseurl:"
-  This is a website to showcase the projects I do for school
+description: "This is a website to showcase the projects I do for school"
 baseurl: ""
-url: "
+url: ""
+twitter_username: jekyllrb
 github_username:  fedqq
 
 # Build settings
-theme: minima
+theme: just-the-docs
+color_scheme: dark
 plugins:
   - jekyll-feed
 

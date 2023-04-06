@@ -27,7 +27,7 @@ twitter_username: jekyllrb
 github_username:  fedqq
 
 # Build settings
-remote_theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 plugins:
   - jekyll-feed
